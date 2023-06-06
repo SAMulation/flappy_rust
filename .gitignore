@@ -1,0 +1,30 @@
+# Generated files
+/target/
+
+# Build output
+Cargo.lock
+Cargo.toml.orig
+Cargo.toml.bkp
+
+# Editor/IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+*.bak
+
+# Compiled binaries
+*.rs.bk
+*.rlib
+*.rmeta
+*.crate
+*.so
+*.dll
+*.dylib
+
+# Build artifacts
+*.rmeta
+*.rlib
+
+# Crates.io files
+*.crate
